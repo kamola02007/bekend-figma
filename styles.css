@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+.katta-yozuv{
+    font-weight: 700px;
+    font-size: 77px;
+    line-height: 82px;
+}
+
+.kichik-yozuv{
+    margin-top: 30px;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+.yozuv1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.yozuv2{
+    width: 483px;
+    height: 504px;
+}
+
+.the-best{
+    width: 563px;
+    height: 345px;
+    left: 586px;
+}
+
+.best-yozuv{
+    width: 443px;
+    height: 173px;
+    line-height: 57px;
+    font-size: 57px;
+}
+
+.p-yozuv{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.birinchisi{
+    width: 308px;
+    height: 333px;
+}
+
+.ikkinchisi{
+    width: 308px;
+    height: 333px;
+}
+
+.uchinchisi{
+    width: 308px;
+    height: 333px;
+}
+
+.bir{
+    width: 308px;
+    height: 404px;
+}
+
+.ikki{
+    width: 308px;
+    height: 404px;
+}
+
+.uch{
+    width: 308px;
+    height: 404px;
+}
+
+.the{
+    width: 343px;
+    font-size: 58px;
+    line-height: 57px;
+}
+
+.explore{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.hub{
+    width: 563px;
+    height: 287px;
+}
+
+.ready{
+    
+    height: 283px;
+    background-color: aqua;
+}
+
+.switch{
+    font-size: 46px;
+    line-height: 55px;
+}
+
+.speak{
+    font-size: 20px;
+    line-height: 30px;
+}
+.center{
+    background-color: rgb(245, 189, 206);
+}
